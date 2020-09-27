@@ -1,6 +1,5 @@
 module.exports = {
-    "prefix": "$",
-    "token_bot": "process.env.TOKEN",
+    "prefix": "$"
     "colors": {
       "error": "0xFF0000",
       "success": "0x00FF46",
