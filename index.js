@@ -65,4 +65,4 @@ client.on('message', async message => {
         
 });
 
-client.login(process.env.TOKEN)); //This is the heart of the bot
+client.login(process.env.BOT_TOKEN); //This is the heart of the bot
